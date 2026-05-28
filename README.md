@@ -39,7 +39,7 @@ This project analyzes four years (2011–2014) of Superstore sales data across 5
 
 A **Star Schema** was configured in Power BI Model View with one central fact table and three dimension tables.
 
-![Data Model](images/data_model.png)
+![Data Model](images/data_model.jpg)
 
 ### Dimension Tables Created
 
@@ -113,7 +113,7 @@ CONCATENATEX(
 ## 📊 Dashboards
 
 ### 1. Sales Overview
-![Sales Overview Dashboard](images/sales_overview.png)
+![Sales Overview Dashboard](images/sales_overview.jpg)
 
 **Key Insights:**
 - Total sales of **$2.30M** with **$286K profit** at **12.47% margin** over 4 years
@@ -127,7 +127,7 @@ CONCATENATEX(
 ---
 
 ### 2. Product Analysis
-![Product Analysis Dashboard](images/product_analysis.png)
+![Product Analysis Dashboard](images/product_analysis.jpg)
 
 **Key Insights:**
 - All three categories are competitive in sales — Technology leads narrowly at **$0.84M**
@@ -141,7 +141,7 @@ CONCATENATEX(
 ---
 
 ### 3. Regional Sales Analysis
-![Regional Sales Dashboard](images/regional_sales.png)
+![Regional Sales Dashboard](images/regional_sales.jpg)
 
 **Key Insights:**
 - **New York City** is the highest-grossing city; **California** is the most profitable state
@@ -154,7 +154,7 @@ CONCATENATEX(
 ---
 
 ### 4. Operational Efficiency
-![Operational Efficiency Dashboard](images/operational_efficiency.png)
+![Operational Efficiency Dashboard](images/operational_efficiency.jpg)
 
 **Key Insights:**
 - Average shipping delay is **3.96 days**; **Central** region has the worst delay at 4.06 days
@@ -165,7 +165,7 @@ CONCATENATEX(
 ---
 
 ### 5. Customer Insights *(Drill-Through Page)*
-![Customer Insights Dashboard](images/customer_insights.png)
+![Customer Insights Dashboard](images/customer_insights.jpg)
 
 Accessible via right-click drill-through from the Top Customers chart on the Sales Overview dashboard.
 
